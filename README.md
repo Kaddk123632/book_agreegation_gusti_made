@@ -1,1 +1,2 @@
 # book_agreegation_gusti_made
+Program di atas adalah program manajemen toko buku sederhana menggunakan konsep Aggregation. Terdapat dua kelas utama, yaitu Buku dan TokoBuku. Kelas Buku memiliki atribut judul, pengarang, dan harga, serta metode untuk menampilkan informasi buku. Kelas TokoBuku memiliki atribut nama toko dan daftar buku yang tersedia, serta metode untuk menambahkan buku ke dalam daftar dan menampilkan daftar buku.
